@@ -1,0 +1,73 @@
+#footer{
+		width:100%;
+		background: #ccc;
+		position: sticky;
+		text-align: center;
+}
+
+#about{
+		float:left;
+		padding-left: 112.5px;
+
+}
+
+#portfolio{
+		float:left;
+		padding-left: 112.5px;
+}
+
+#contact{
+		float:left;
+		padding-left: 112.5px;
+}
+body {
+	width:1355px;
+	height: 750px;
+}
+
+header {
+	font-family: "Georgia", "Times", "Times New Roman" "serif";
+  	margin-bottom: 3%;
+  	width:100%;
+  	color: #333;
+  	background: #ccc;
+  	clear: both;
+}
+
+
+
+.sec1 {
+	font-family: "Arial";
+	font-size: 125%;
+	padding: 0 0 10px 15px;
+}
+
+.header{
+		width:100%;
+		float:left;
+		background: grey;
+		font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+		
+}
+
+.head1 {	
+	font-size: 170%;
+	float:left;
+	padding-top: .5em;
+	padding-left: 1em;
+	 
+
+}
+
+.menusec {
+	list-style: none;
+	line-height: 7.5em;
+}
+
+
+
+.bioimage {
+	padding: 20px 40px 20px 33.3%;
+	margin: 10px 5px 5px 10px;
+}
+
